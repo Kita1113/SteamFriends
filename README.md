@@ -154,3 +154,4 @@
 | ![](https://avatars.steamstatic.com/7dcd1b6fd4af0e4c36808a5e9211bc4fbfbabfdb.jpg) | Ulalia                      | [76561198799995996](https://steamcommunity.com/profiles/76561198799995996/) | ✅           | 2025-01-20 04:46:53 |          |
 | ![](https://avatars.steamstatic.com/4b78b4a91628292a97e5ca5caee1b105242ff618.jpg) | 吴伟大宝贝                       | [76561198417053032](https://steamcommunity.com/profiles/76561198417053032/) | ❌           | 2025-03-09 14:54:01 |          |
 | ![](https://avatars.steamstatic.com/e09fe3b53b79282b274794efac225f82da927369.jpg) | 大托托                         | [76561198174135583](https://steamcommunity.com/profiles/76561198174135583/) | ✅           | 2025-05-12 16:09:18 |          |
+| ![](https://avatars.steamstatic.com/bc3b575ed6ad3ea7461d09d7ef5b19485546de47.jpg) | 向谁诉说从前                      | [76561199076060034](https://steamcommunity.com/profiles/76561199076060034/) | ✅           | 2025-06-28 11:50:30 |          |
