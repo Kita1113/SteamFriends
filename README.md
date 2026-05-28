@@ -164,3 +164,4 @@
 | ![](https://avatars.steamstatic.com/cb3985fc749c18eac6a8bdc26c7d47781b7784b5.jpg) | 牧啞ovo                       | [76561198987738110](https://steamcommunity.com/profiles/76561198987738110/) | ✅           | 2026-03-29 08:12:36 |          |
 | ![](https://avatars.steamstatic.com/090a6433151a7fcfcf6d3983aaa74be856c4b9b7.jpg) | 小小屑陈                        | [76561199012168147](https://steamcommunity.com/profiles/76561199012168147/) | ✅           | 2026-03-29 09:50:40 |          |
 | ![](https://avatars.steamstatic.com/3347685d5b0ffdf9fb2eacdabdcfe12d672d3294.jpg) | 宝宝巴士 50h 赢对                 | [76561198214556955](https://steamcommunity.com/profiles/76561198214556955/) | ✅           | 2026-03-30 14:19:47 |          |
+| ![](https://avatars.steamstatic.com/3074571e63864c0906d63cb5decc5e53c5299eb0.jpg) | 巅峰入魔登峰造极山东                  | [76561198849666177](https://steamcommunity.com/profiles/76561198849666177/) | ✅           | 2026-05-27 12:02:07 |          |
