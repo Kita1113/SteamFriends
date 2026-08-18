@@ -169,3 +169,4 @@
 | ![](https://avatars.steamstatic.com/c5166246ebfe97957eb8f70c72e46543fd5930d6.jpg) | Yuki                        | [76561199806646503](https://steamcommunity.com/profiles/76561199806646503/) | ✅           | 2026-07-01 14:42:45 |          |
 | ![](https://avatars.steamstatic.com/0a3b16f86816359ef60379d9716c471acfc96f4f.jpg) | 乄破妄powang                   | [76561198385657371](https://steamcommunity.com/profiles/76561198385657371/) | ✅           | 2026-07-28 18:03:56 |          |
 | ![](https://avatars.steamstatic.com/9f52c7faf303c75283eb25c409d8b537cd198998.jpg) | JSWMSK                      | [76561199193179569](https://steamcommunity.com/profiles/76561199193179569/) | ✅           | 2026-08-16 23:00:08 |          |
+| ![](https://avatars.steamstatic.com/60e8a0be810490931c9a144deca3bacb43e7efcb.jpg) | Ghost                       | [76561199520208105](https://steamcommunity.com/profiles/76561199520208105/) | ✅           | 2026-08-17 06:00:17 |          |
